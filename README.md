@@ -1,1 +1,1 @@
-A web-based application which implement decision support system algorithm named Two Phase Simplex Method. This Application allows the users to choose their daily nutrient consumption while maintaining the lowest price
+A web-based application which implement decision support system algorithm named Two Phase Simplex Method. This Application allows the users to choose their daily nutrient consumption while maintaining the lowest price -
